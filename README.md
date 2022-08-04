@@ -2,7 +2,6 @@
 
 ### Merhaba, Ben Tuğba Erdem👋
 
-[![](https://img.shields.io/twitter/follow/erdemgillerden?style=social)](https://www.twitter.com/erdemgillerden)
 [![](https://img.shields.io/github/followers/erdemtgba?style=social)](https://www.github.com/erdemtgba)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuğba-erdem-41484814a/)
