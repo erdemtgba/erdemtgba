@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=erdemtgba&show_icons=true">
 
-### Merhaba, Ben Tuğba Erdem👋
+### Merhaba, Ben Tuğba👋
 
 [![](https://img.shields.io/github/followers/erdemtgba?style=social)](https://www.github.com/erdemtgba)
 
